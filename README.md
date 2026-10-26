@@ -90,7 +90,6 @@ Zoom-out pivot - делаем продукт частью большого пр�
 
 ### 2. Lean Canvas
 ![Perform Pivot Lean Canvas](/img/pivotleancanvas.jpg)
-<<<<<<< HEAD
 
 ## 6. User Stories
 
