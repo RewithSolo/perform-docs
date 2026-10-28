@@ -330,19 +330,19 @@ DAW / VST-плагин (VST-plugin) - Цифровая звуковая рабо
 
 ### 1. Экран настройки аудио-интерфейса перед сессией
 
-![Setup Audio-interface](/img/setupbeforesession.jpg)
+![Setup Audio-interface](/img/setupbeforesession.png)
 
 ### 2. Экран онлайн репетиции
 
-![Online Jam Session](/img/jammingsession.jpg)
+![Online Jam Session](/img/jammingsession.png)
 
 ### 3. Экран концерта
 
-![Concert Session](/img/concertsession.jpg)
+![Concert Session](/img/concertsession.png)
 
 ### 4. Экран концерта со стороны зрителя
 
-![Concert Session User View](/img/userviewconcert.jpg)
+![Concert Session User View](/img/userviewconcert.png)
 
 ## 12. JSON-контракты
 
